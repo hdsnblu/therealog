@@ -1,4 +1,7 @@
 💀
+
+Official site link (go here): https://hdsnblu.github.io/therealog/oghome.html
+
 Made by: @hdsnblu (Owner of Radium Network & Proxy World)
 
 WIP! The Real OG will end up looking WAY BETTER when I am done coding. For now, enjoy the minimal games on the site. Make sure not to read DONTREADME.txt...
