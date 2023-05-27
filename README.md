@@ -1,6 +1,6 @@
 💀
 
-Official site link: <li> <a href="https://hdsnblu.github.io/therealog/oghome.html">Play Some Games Here!</a>
+Official site link: <a href="https://hdsnblu.github.io/therealog/oghome.html">Play Some Games Here!</a>
 
 Made by: @hdsnblu (Owner of Radium Network & Proxy World)
 
